@@ -86,6 +86,7 @@ header {
     content: "";
     position: absolute;
     width: 30vw;
+    max-width: 600px;
     height: 4px;
     background-color: white;
 }
